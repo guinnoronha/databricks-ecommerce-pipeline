@@ -1,5 +1,3 @@
-# Databricks notebook source
-# Databricks notebook source
 # MAGIC %md
 # MAGIC # Camada Silver: Limpeza e Transformação
 # MAGIC
